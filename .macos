@@ -799,12 +799,6 @@ defaults write com.apple.messageshelper.MessageController SOInputLineSettings -d
 # defaults write com.google.Chrome.canary PMPrintingExpandedStateForPrint2 -bool true
 
 ###############################################################################
-# Rectangle.app                                                               #
-###############################################################################
-
-cp -r init/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
-
-###############################################################################
 # Spaceship Prompt                                                            #
 ###############################################################################
 
